@@ -1,14 +1,8 @@
 {
   "name": "Baggage Weight Calculation",
   "short_name": "BaggageCalc",
-  "description": "ระบบคำนวณน้ำหนักสัมภาระและตรวจสอบนโยบายสายการบิน",
   "icons": [
-    {
-      "src": "logo.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    {"src": "logo.png", "sizes": "512x512", "type": "image/png"}
   ],
   "start_url": ".",
   "display": "standalone",
